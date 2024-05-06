@@ -1,0 +1,4 @@
+<resources>
+	<string name="login_app_name">módulo login</string>
+	<string name="login_module_button">ir para login</string>
+</resources>
